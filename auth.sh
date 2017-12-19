@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # 认证授权
 
 WORK_PATH="${PWD}"

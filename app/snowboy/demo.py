@@ -16,7 +16,7 @@ def interrupt_callback():
 
 if len(sys.argv) == 1:
     print("Error: need to specify model name")
-    print("Usage: python demo.py your.model")
+    print("Usage: python demo.py your.moythondel")
     sys.exit(-1)
 
 model = sys.argv[1]
